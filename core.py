@@ -101,4 +101,4 @@ async def ban(ctx, member: discord.Member, *, reason=None):
 bot.tree.command(name="ban", description="komanda za baniranje")
 
 
-bot.run("MTIzNjAwMzA1MjQxOTQxNjE2Nw.GKP9AE.501whQDSJqstmJVEnmOF1APK-29NdM4hi7rWlg")
+bot.run("HERE U POST YOUR BOT TOKEN")
